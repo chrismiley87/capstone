@@ -18,20 +18,20 @@ This project uses two publicly available datasets. The first one lists the prece
 [See Census Data](https://www.kaggle.com/datasets/mittvin/u-s-census-dataset-education-finance-industry/data?select=Educationv.csv)
 
 These tables are also divided by congressional district. The tables were merged, and then joined with the elections dataset on their congressional district and the year 2020.
-![State_Graph](./images/state_results.jpg)
+![State_Graph](./images/census_party.jpg)
 
 ## Methods
 
 This project uses descriptive analysis, exploratory data analysis, data visualization, and unsupervised learning. This provides key insights to understanding the dynamics to the swing states in this country, broken down by congressional district, and how Democrats can craft a winning message.
-![Census_Party](./images/census_party.jpg)
+![Census_Party](./images/model_matrix.jpg)
 
 ## Conclusions
 
-* 1. Focus on opportunities in education. There are a number of districts in Iowa and Indiana with a high number of residents that have had less educational opportunity, this should be an appealing message for Democrats to campaign on.
-* 2. The higher the percentage of voters working in agriculture, the likelier a Republican victory. Focus on ways to create an economic/environmental message that can appeal to them.
+* 1. Focus on opportunities in education. There are a number of districts in states like Iowa and Indiana with a high number of residents that have had less educational opportunity, this should be an appealing message for Democrats to campaign on.
+* 2. The higher the percentage of voters working in manufacturing, the likelier a Republican victory. Focus on ways to create an economic/environmental message that can appeal to them.
 ![Features](./images/features.jpg)
-* 3. The Democrats have performed better in the swing states in recent elections, but have lost Florida and Ohio. The recent dynamics don't bode well for Democrats in these states, and they should focus their resources on other swing states. There are a few seemingly gettable states, like Iowa.
-![Iowa](./images/iowa.jpg)
+* 3. The Democrats have performed better in the swing states in recent elections, but have lost Florida and Ohio. The recent dynamics don't bode well for Democrats in these states, and they should focus their resources on other swing states. There are a few seemingly gettable states based on our model's performance, like North Carolina.
+![Iowa](./images/nc_features.jpg)
 
 ## Next Steps
 
