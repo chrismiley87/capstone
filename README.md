@@ -27,11 +27,9 @@ This project uses descriptive analysis, exploratory data analysis, data visualiz
 
 ## Conclusions
 
-* 1. Focus on opportunities in education. There are a number of districts in states like Iowa and Indiana with a high number of residents that have had less educational opportunity, this should be an appealing message for Democrats to campaign on.
-* 2. The higher the percentage of voters working in manufacturing, the likelier a Republican victory. Focus on ways to create an economic/environmental message that can appeal to them.
-![Features](./images/features.jpg)
-* 3. The Democrats have performed better in the swing states in recent elections, but have lost Florida and Ohio. The recent dynamics don't bode well for Democrats in these states, and they should focus their resources on other swing states. There are a few seemingly gettable states based on our model's performance, like North Carolina.
-![Iowa](./images/nc_features.jpg)
+* 1. Address income inequality. Voters in the $20k - $75k range are more likely the vote Republican, and they need to be swayed.
+* 2. The higher the percentage of voters working in manufacturing, the likelier a Republican victory. Focus on ways to create a message that can appeal to them.
+* 3. A state like North Carolina is winnable. The Democratic party lost this state in 2020 by about 74,000 votes, while there are nearly 750,000 jobs in education and healthcare, and similar numbers of people that have less than a high school diploma, two categories that lean democrat in our model (CNN Election Results, https://www.cnn.com/election/2020/results/president). The party should focus on issues of education and healthcare.
 
 ## Next Steps
 
